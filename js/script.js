@@ -2,6 +2,7 @@
 // вписываем в инпут и жмем на кнопку.
 
 var a = [4, 5, 6];
+
 function f1() {
     var t = [];
     var b = +document.getElementById('nums1').value;
